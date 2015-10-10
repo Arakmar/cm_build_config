@@ -16,7 +16,7 @@
 		remote="blobs" />
 	<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"
 		remote="blobs" />
-	<project name="TheMuppets/proprietary_vendor_nvidia" path="vendor/nvidia"
+	<project name="apinela/proprietary_vendor_nvidia" path="vendor/nvidia"
 		remote="blobs" />
 	<project name="TheMuppets/proprietary_vendor_nxp" path="vendor/nxp"
 		remote="blobs" />
