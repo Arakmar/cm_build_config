@@ -6,6 +6,6 @@
 
 	<project name="apinela/android_kernel_asus_grouper" path="kernel/asus/grouper"
 		remote="custom" revision="grouper-3.4-dev-baseband" />
-  <project name="apinela/android_device_asus_grouper" path="device/asus/grouper"
+	<project name="apinela/android_device_asus_grouper" path="device/asus/grouper"
 		remote="custom" revision="cm-12.1" />
 </manifest>
