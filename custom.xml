@@ -4,10 +4,10 @@
 	<remote  name="custom"
            fetch="http://github.com" />
 
-<remove-project name="CyanogenMod/android_kernel_asus_grouper" />
-<remove-project name="CyanogenMod/android_device_asus_grouper" />
 	<project name="apinela/android_kernel_asus_grouper" path="kernel/asus/grouper"
 		remote="custom" revision="grouper-3.4" />
 	<project name="apinela/android_device_asus_grouper" path="device/asus/grouper"
+		remote="custom" revision="cm-12.1" />
+<project name="CyanogenMod/android_device_asus_tilapia" path="device/asus/tilapia"
 		remote="custom" revision="cm-12.1" />
 </manifest>
