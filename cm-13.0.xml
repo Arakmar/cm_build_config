@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+	<remote  name="blobs"
+           fetch="http://github.com" revision="cm-13.0" />
+
+	<project name="TheMuppets/proprietary_vendor_asus" path="vendor/asus"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_broadcom" path="vendor/broadcom"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"
+		remote="blobs" />
+	<project name="apinela/proprietary_vendor_nvidia" path="vendor/nvidia"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_oppo" path="vendor/oppo"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_widevine" path="vendor/widevine"
+		remote="blobs" />
+	<project name="TheMuppets/proprietary_vendor_oneplus" path="vendor/oneplus"
+        remote="blobs" />
+
+</manifest>
