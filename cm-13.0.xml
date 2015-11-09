@@ -10,8 +10,6 @@
 		remote="blobs" />
 	<project name="TheMuppets/proprietary_vendor_htc" path="vendor/htc"
 		remote="blobs" />
-	<project name="TheMuppets/proprietary_vendor_invensense" path="vendor/invensense"
-		remote="blobs" />
 	<project name="TheMuppets/proprietary_vendor_lge" path="vendor/lge"
 		remote="blobs" />
 	<project name="TheMuppets/proprietary_vendor_motorola" path="vendor/motorola"
